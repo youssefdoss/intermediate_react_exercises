@@ -1,10 +1,8 @@
 # Intermediate React Exercises
 
-![Rithm School](./rithm-school-company-logo.png)
+I cloned this repo for my practice purposes. The readme below and the questions within this repo are not my own. This repository contains the exercises for Rithm School's free [Intermediate React](https://www.rithmschool.com/courses/intermediate-react) course.  React is a more advanced topic, so if you are new to JavaScript, we would suggest starting with our free JavaScript courses which are also available on [Rithm School](https://www.rithmschool.com/courses).
 
-This repository contains the exercises for Rithm School's free [Intermediate React](https://www.rithmschool.com/courses/intermediate-react) course.  React is a more advanced topic, so if you are new to JavaScript, we would suggest starting with our free JavaScript courses which are also available on [Rithm School](https://www.rithmschool.com/courses).
-
-## Intermediate React 
+## Intermediate React
 
 ### Unit 1 - React Router / Redux
 
